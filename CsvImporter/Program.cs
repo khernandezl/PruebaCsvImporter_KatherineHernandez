@@ -26,7 +26,7 @@ namespace CsvImporter
             await OperationsCSV();
         }
 
-        private async static Task OperationsCSV()
+        public async static Task OperationsCSV()
         {
             try
             {
