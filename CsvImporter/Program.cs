@@ -71,7 +71,7 @@ namespace CsvImporter
                     }
                     if (flag > 0)
                     {                         
-                        Console.WriteLine("Se han insertado los datos en la BD", "/n", "Numero de registros insertados {}");
+                        Console.WriteLine("Se han insertado los datos en la BD", "/n", "Numero de registros insertados {importe}");
                     }
                 }
                 
