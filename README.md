@@ -3,7 +3,7 @@
 
 1. Descargue las fuentes
 2. Compile la solucion.
-3. Ejecute los scripts de BD que se encuentran en la ruta: [script](https://github.com/khernandezl/PruebaCsvImporter_KatherineHernandez/DAL/Scripts), es importante aclarar que se debe crear por el localDB, en SQL Server Management
+3. Ejecute los scripts de BD que se encuentran en la ruta: [script](https://github.com/khernandezl/PruebaCsvImporter_KatherineHernandez/tree/master/DAL/Scripts), es importante aclarar que se debe crear por el localDB, en SQL Server Management
 4. Con los pasos anteriores se procede a ajecutar la aplicacion.
 
 
