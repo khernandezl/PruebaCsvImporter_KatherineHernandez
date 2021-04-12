@@ -12,3 +12,5 @@ Tuve varios conflictos con la construccion, ya que aparentemente no se veia tan 
 En esete caso sacrifique procesamiento por rapidez, pero obtimizando de igual forma los recursos de la maquina.
 Se me presentaron varios escenarios en la ejecucion, en alguno tuve demora de horas y casi de dias en procesar la informacion, que me toco reeplantear la forma en la que se estaba construyendo, indaganado encontre una dll que me permitia optimizar recursos y hacer las cosas un poco mas rapidas, la dll CSVHelper, no la conocia la verdad, pero estudiando se aprender y logre implementarla.
 Por ultimo realizo un volcado de datos utulizando el BulkInsertAsync, en la insercion tambien tuve inconvenientes por timeout, asi que decidi hacerlo por lotes para que la transaccion no quedara en espera y de esta forma se aligero mas el proceso.
+
+### Nota: 
